@@ -6,7 +6,6 @@
 #include <NewPing.h>
 #include <MedianFilter.h>
 #include <Wire.h>
-#include <MedianFilter.h>
 
 #define TRIGGER_PIN  12  // Arduino pin tied to trigger pin on the ultrasonic sensor.
 #define ECHO_PIN     11  // Arduino pin tied to echo pin on the ultrasonic sensor.
